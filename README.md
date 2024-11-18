@@ -1,32 +1,77 @@
-# 👋 Benvenuto nel mio GitHub
+# Ciao, sono Antonio D'Aversa ✨
 
-Ciao! Sono uno sviluppatore web appassionato, con esperienza nello sviluppo frontend e backend. Il mio stack di competenze include tecnologie come **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel** e **React.js**. Amo creare applicazioni web moderne e funzionali, con un occhio di riguardo per le best practice e la qualità del codice.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,22,27,30&height=200&section=header&text=Amit%20Pandher&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-## 🔧 Competenze Tecniche
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Specialist;UI%2FUX+Designer;Clean+Code+Enthusiast" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://bit.ly/LinkedinAntonio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://bit.ly/GitAntoDav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+    <a href="antoniodaversa71@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  </p>
+</div>
 
-- **HTML5 & CSS3**: Creazione di layout responsive e accessibili con attenzione ai dettagli e all'usabilità.
-- **JavaScript (ES6+)**: Sviluppo di interfacce utente interattive e dinamiche, sia lato frontend che backend.
-- **PHP**: Sviluppo backend con PHP per gestire logiche complesse e database.
-- **Laravel**: Utilizzo di Laravel per la creazione di applicazioni web scalabili e sicure, con gestione di database, API e autenticazione.
-- **React.js**: Sviluppo di applicazioni frontend moderne e reattive, con gestione dello stato e componentizzazione.
-- **Bootstrap & Tailwind CSS**: Utilizzo di framework per la creazione di interfacce responsive e moderne.
+## 🎯 Chi Sono
+
+> Full Stack Developer Junior con solida competenza nei linguaggi PHP, JavaScript, HTML, CSS e SQL. Esperto anche in grafica digitale, con ottime capacità nell’ uso di Photoshop. Fortemente orientato al problem solving, possiedo spiccate doti di gestione, coordinamento e pianificazione, sviluppate grazie a esperienze imprenditoriali precedenti. Flessibile e proattivo, sono alla ricerca di opportunità per crescere professionalmente e contribuire in modo efficace all’interno di team dinamici e progetti innovativi.
+
+### 🚀 Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.gif" width="100px" /><br />
+        <sub><b>Full Stack Dev</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.gif" width="100px" /><br />
+        <sub><b>Clean Code</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.gif" width="100px" /><br />
+        <sub><b>UI/UX Design</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,laravel,mysql,git,docker,figma&theme=dark&perline=6" />
+</div>
+
+### 🌟 Progetti in Evidenza
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🛍️ Presto.it</h3>
+        <p>Full Stack E-commerce</p>
+        <a href="https://github.com/AntoDav00/Presto.it">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpandher03&repo=presto.it&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antodav00&theme=radical%22" alt="GitHub Streak" />
+</div>
 
 
-## 💼 Progetti Recenti
+<div align="center">
+  
+💡 💼 Sempre aperto a nuove opportunità per crescere e contribuire nel mondo DevSecOps. Se hai un progetto interessante o vuoi collaborare, non esitare a contattarmi!.
 
-1. **Progetto Finale Aulab - Sito di Vendita di Oggetti Usati**
-   - Tecnologie: Laravel, CSS, GSAP, Javascript
-   - Descrizione: Abbiamo sviluppato una piattaforma web per la compravendita di oggetti usati, ispirata a servizi come Vinted e Wallapop. L'obiettivo era creare uno spazio sicuro e intuitivo dove gli utenti potessero registrarsi, pubblicare annunci e acquistare prodotti di seconda mano. La piattaforma integra funzionalità di ricerca avanzata, profili utenti, zona revisori, possibilità di collaborare con il sito. Il progetto è stato realizzato utilizzando Laravel per il backend e Bootstrap, CSS e Javascript per il frontend, con un'attenzione particolare alla user experience e alla performance del sito.
-   - https://github.com/AntoDav00/Presto.it
-   
+</div>
 
-## 📈 Obiettivi Futuri
-
-Continuare a migliorare le mie competenze su **React.js** e **Laravel**, esplorare nuove tecnologie come **Node.js** e **TypeScript**, e contribuire a progetti open-source.
-
-## 📫 Contattami
-
-- Email: antoniodaversa71@gmail.com
-- LinkedIn: https://bit.ly/3ZZ97Xl
-
-Grazie per aver visitato il mio profilo GitHub! 👨‍💻
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
+</div>
