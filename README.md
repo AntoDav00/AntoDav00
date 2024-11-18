@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+JR;UI%2FUX+Designer;React.JS+Specialist;Clean+Code+Enthusiast;Graphic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+JR;UI%2FUX+Designer;React.JS+Specialist;Clean+Code+Enthusiast;Graphic" alt="Typing SVG" />
   <p>
     <a href="https://bit.ly/LinkedinAntonio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://bit.ly/GitAntoDav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
