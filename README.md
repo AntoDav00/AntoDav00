@@ -1,7 +1,7 @@
 # Ciao, sono Antonio D'Aversa ✨
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,22,27,30&height=200&section=header&text=Amit%20Pandher&fontSize=80&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,2,22,27,30&text=Antonio%20D'Aversa&textBg=false&animation=twinkling)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,2,22,27,30&text=Antonio%20D'Aversa&textBg=false&animation=twinkling" />
 </div>
 
 <div align="center">
