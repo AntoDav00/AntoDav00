@@ -61,6 +61,20 @@
 </div>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🕹️ ReHacktor</h3>
+        <p>Front-end Discovery Games</p>
+        <a href="https://github.com/AntoDav00/ReHacktor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=antodav00&repo=rehacktor&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antodav00&theme=radical%22" alt="GitHub Streak" />
 </div>
 
