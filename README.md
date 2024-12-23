@@ -58,9 +58,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -77,7 +74,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antodav00&theme=radical%22" alt="GitHub Streak" />
 </div>
-
 
 <div align="center">
   
